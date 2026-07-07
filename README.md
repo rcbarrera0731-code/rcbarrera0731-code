@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **rcbarrera0731-code/rcbarrera0731-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
